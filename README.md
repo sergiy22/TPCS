@@ -3,7 +3,7 @@
 <h2>Практичні роботи</h2>
 <ul>
   <li>Практична робота №8 (Autodesk Inventor)</li>
-  <li>Тема :"Створення 3D-моделей компонентів у середовищі Solid Works (Autodesk Inventor)"</li>
+  <li>Тема: "Створення 3D-моделей компонентів у середовищі Solid Works (Autodesk Inventor)"</li>
 </ul>
 <h2>Скріншоти</h2>
 
@@ -28,7 +28,7 @@
   <li>*.SchLib - схеми компонентів Altium Designer</li>
   <li>*.PcbLib - топологічні посадкові місця компонентів Altium Designer</li>
   <li>*.LibPkg - проект інтегрованої бібліотеки компонентів Altium Designer</li>
-  <li>*.FCStd - розширення файлу 3D моделей FreeCAD</li>
+  <li>*.ipt - розширення файлу 3D моделей Inventor</li>
   <li>*.step - розширення файлу 3D моделі</li>
 </ul>
 </ul>
